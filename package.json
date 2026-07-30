@@ -1,0 +1,17 @@
+{
+  "name": "doulo-dev",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Douglas Lovera — portfolio (Cloudflare Workers static assets)",
+  "packageManager": "pnpm@10.7.0",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild", "workerd"]
+  }
+}
