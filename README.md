@@ -6,6 +6,8 @@ The site keeps things small and direct: a dark, responsive grid with links to Do
 
 ## Preview
 
+[![doulo.dev homepage](docs/doulo-dev.png)](https://doulo.dev)
+
 [Open doulo.dev](https://doulo.dev)
 
 ## Links
